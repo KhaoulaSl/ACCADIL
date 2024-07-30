@@ -1,0 +1,23 @@
+.modal-header {
+    background-color: #A0522D;
+}
+
+.modal-title {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #A0522D;
+    border : none;
+}
+
+.btn-primary:hover {
+    background-color: #45a049;
+  }
+
+  

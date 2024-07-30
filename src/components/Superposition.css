@@ -1,0 +1,13 @@
+.superposition-container .react-compare-image-slider {
+    height: 4px; 
+    border-radius: 0; 
+}
+
+.superposition-container .react-compare-image-slider::-webkit-slider-thumb {
+    width: 0; 
+    height: 0; 
+    border: none; 
+    background: transparent; 
+    opacity: 0; 
+    cursor: default;
+}

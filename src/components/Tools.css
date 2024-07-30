@@ -1,0 +1,33 @@
+.outil-bar {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    background-color: #556B2F;
+    padding: 10px;
+    border-radius: 20px 0 0 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.outil-button {
+    background-color: #FFFFFF;
+    color: #800000;
+    border: none;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+    border-radius: 50%; 
+    width: 50px; 
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.outil-button:hover {
+    background-color: #800000;
+    color: #FFFFFF;
+}
