@@ -1,0 +1,176 @@
+name1;name2;path1;path2;n_match;ssim;H;Distance
+39861-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;82;0.1050703073885509;"[[  0.93985156   0.12306108 -27.87374647]
+ [ -0.12306108   0.93985156  39.6802789 ]]";0.38922116160730486
+32307-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;58;0.09921052734434488;"[[  0.9819347   -0.11792822  19.01894095]
+ [  0.11792822   0.9819347  -15.30861204]]";0.3908873326363106
+12258-R.jpg;14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;61;0.09249573229284577;"[[  0.95840935  -0.31391093  70.18215297]
+ [  0.31391093   0.95840935 -76.76512783]]";0.3966962067773661
+33066-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;49;0.0942235423793878;"[[  0.98354741  -0.08881218   9.79543776]
+ [  0.08881218   0.98354741 -24.05376482]]";0.3967782405504109
+14433-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;46;0.09354970376496105;"[[  0.97334727   0.21800726 -52.65822156]
+ [ -0.21800726   0.97334727  53.35282999]]";0.3972148115343805
+18519-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;64;0.08206698532826288;"[[  1.00335326  -0.14851681  33.96382642]
+ [  0.14851681   1.00335326 -28.38474563]]";0.4017674785305115
+14433-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;34;0.07609914284789769;"[[  0.96730069   0.30899337 -57.23766973]
+ [ -0.30899337   0.96730069  82.85123677]]";0.40684300362799164
+38491-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;28;0.061981014553987045;"[[  1.01020792  -0.23509669  58.54002207]
+ [  0.23509669   1.01020792 -48.99636899]]";0.4170949266809929
+18519-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;16;0.06206449535620889;"[[  1.01625156  -0.15536086  26.90707477]
+ [  0.15536086   1.01625156 -39.2401037 ]]";0.42062876740490623
+32307-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;26;0.05132396031080278;"[[  0.96352328  -0.34686508  82.09420919]
+ [  0.34686508   0.96352328 -60.07380604]]";0.4242992039087963
+12258-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;15;0.05514915330494312;"[[  1.00714009  -0.10271549  -1.78415216]
+ [  0.10271549   1.00714009 -38.96253602]]";0.42474957129170393
+32396-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;11;0.04050128881004178;"[[ 9.94323355e-01  6.88644425e-03  5.54376401e+00]
+ [-6.88644425e-03  9.94323355e-01  1.19303912e+01]]";0.4348666260260975
+18051-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;18;0.03310523886414828;"[[ 1.01370758e+00 -4.52138948e-03 -5.88299430e+00]
+ [ 4.52138948e-03  1.01370758e+00  4.87894606e+00]]";0.4392662298055171
+38491-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;22;0.030624987156166697;"[[ 0.95658711 -0.05366926 24.72340394]
+ [ 0.05366926  0.95658711 -6.57353176]]";0.44095255407604006
+14582-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;19;0.026668201970680948;"[[  0.96253567  -0.21157168  59.98197687]
+ [  0.21157168   0.96253567 -42.33567224]]";0.441121816174398
+14433-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;22;0.03140523988944731;"[[  0.95393708   0.22647701 -37.99667685]
+ [ -0.22647701   0.95393708  67.38770328]]";0.4417617533909249
+36504-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;15;0.025916857216473903;"[[  0.99874204   0.09525168 -19.2049708 ]
+ [ -0.09525168   0.99874204  20.5312816 ]]";0.442918014600884
+33066-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;13;0.028032691659477898;"[[ 0.96351627  0.04022679 -6.53349222]
+ [-0.04022679  0.96351627 18.11738408]]";0.4434696219233153
+33066-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;30;0.02776288364997626;"[[  0.95995271  -0.09128259  28.13980706]
+ [  0.09128259   0.95995271 -16.1296615 ]]";0.4439118300685536
+14582-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;18;0.026670060565396423;"[[ 0.92709887 -0.09673365 29.09995807]
+ [ 0.09673365  0.92709887 -9.69409079]]";0.44422986914574825
+14582-R.jpg;18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;11;0.02341060340980198;"[[ 1.00278981 -0.03512112 -6.33145546]
+ [ 0.03512112  1.00278981 -8.64697005]]";0.4451319381495082
+11799-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;11;0.02150469444179062;"[[  0.90520456   0.16752883 -19.35743844]
+ [ -0.16752883   0.90520456  47.68280946]]";0.44552852651738317
+38191-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;17;0.024462107622152212;"[[  1.01929322  -0.14799232  55.90404583]
+ [  0.14799232   1.01929322 -29.95285594]]";0.44602334165255136
+32307-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;14;0.02036021983674034;"[[  1.02513878  -0.08423639   9.27425757]
+ [  0.08423639   1.02513878 -17.54858772]]";0.44686582659266694
+18519-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;17;0.02527003963712929;"[[ 9.37863427e-01  1.44774890e-02  1.54998445e+01]
+ [-1.44774890e-02  9.37863427e-01  1.07716877e+01]]";0.44746300480249424
+14582-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;11;0.020002396062836554;"[[  0.98192583  -0.16157408  32.34355118]
+ [  0.16157408   0.98192583 -25.55410405]]";0.44808407828273383
+33066-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;18;0.019174185685035646;"[[  1.01078989  -0.11562803  16.21620359]
+ [  0.11562803   1.01078989 -32.41301496]]";0.4484705633036852
+32734-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;14;0.02113046224721598;"[[  1.0172213    0.05529739 -16.96887299]
+ [ -0.05529739   1.0172213    5.83869664]]";0.44916904384382916
+33066-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;14;0.015857581420797143;"[[  0.9820237   -0.17953864  52.07024176]
+ [  0.17953864   0.9820237  -34.34082712]]";0.44936799138185063
+12258-R.jpg;14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;0;0.018659319019052482;0;0.4494869251849255
+18519-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.019471607708599625;0;0.45020460891707265
+14582-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;11;0.01746209068433363;"[[  0.98655377   0.05136312 -27.893316  ]
+ [ -0.05136312   0.98655377  12.54882132]]";0.45049187190695406
+33784-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.01420377574967455;0;0.45261939255263195
+32734-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;15;0.016719191139108625;"[[ 0.9851663  -0.0112211  -0.4077077 ]
+ [ 0.0112211   0.9851663  -2.83842865]]";0.4532454348756425
+18519-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;0;0.015082413177468085;0;0.45340020369011835
+14582-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;11;0.013832548943767857;"[[  0.8719155   -0.19713871  60.10259962]
+ [  0.19713871   0.8719155  -10.51381028]]";0.4543788611927695
+18051-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;11;0.01387055812164611;"[[ 1.07773373e+00 -1.32624889e-02 -3.14759707e+01]
+ [ 1.32624889e-02  1.07773373e+00 -1.83106584e+01]]";0.45486790538136884
+32734-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;14;0.01275399791931317;"[[  1.0010422    0.0171118  -10.94046009]
+ [ -0.0171118    1.0010422    8.55498368]]";0.4549744763351994
+36504-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.011765764505554136;0;0.45572974725625065
+18051-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.011540400368696265;0;0.45657820890483897
+18519-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;16;0.010381997428743482;"[[  0.99619715  -0.11243391  17.63656276]
+ [  0.11243391   0.99619715 -25.96960979]]";0.45660907899417263
+11799-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.011589028263036745;0;0.45675201653822506
+36504-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.010846821751010103;0;0.458418278015175
+14582-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;0;0.007307639020626666;0;0.45882277727900206
+36504-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.011361646800645513;0;0.45884425000697127
+18051-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;10;0.008832493875687256;"[[  1.07896136   0.07780793 -27.75015272]
+ [ -0.07780793   1.07896136   5.91264893]]";0.4591825880826116
+32734-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;12;0.007718801455898239;"[[  1.03063226  -0.17064815  44.61470673]
+ [  0.17064815   1.03063226 -37.0046454 ]]";0.45950713816515676
+12258-R.jpg;18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;10;0.007460505721798058;"[[  1.01027087  -0.09843746  11.54463228]
+ [  0.09843746   1.01027087 -18.94200683]]";0.4602056845567094
+36504-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.009333886916743344;0;0.46047317650582564
+11799-R.jpg;12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;0;0.009558046097587649;0;0.4604932287110467
+11799-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;0;0.008757616584019363;0;0.46062679232092263
+38191-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.009620584436300155;0;0.46070882313108547
+12258-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.006239694130066495;0;0.4607724187741821
+11799-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.01056052464219353;0;0.46086621177886317
+11799-R.jpg;18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;0;0.0064215967405419315;0;0.46115229297621657
+14433-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.00823732915091038;0;0.46142571050883086
+32307-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.005645034627703636;0;0.4614616229679779
+12258-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;0;0.00523892801370055;0;0.4615555073477673
+39861-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.004210536383613389;0;0.4616176931762762
+18051-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.007474864062322339;0;0.46167802493020116
+32307-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.006087550547007567;0;0.4617296342972783
+14582-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.004828651978608013;0;0.46191120870026875
+14433-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.008112810891864745;0;0.46201287101613997
+11799-R.jpg;14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;0;0.0072945792895959954;0;0.4620166061069949
+38491-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.007249899200180135;0;0.46236992103651886
+12258-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;0;0.004555142286387779;0;0.4624611971339708
+14433-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;0;0.00709094869886921;0;0.4625396447048277
+14433-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.008031327519253274;0;0.4625908383638294
+18519-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.007702890875247928;0;0.4627666033344763
+32396-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;0;0.006373908969348687;0;0.4627758833521213
+11799-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.007071115219429175;0;0.46282112558367683
+32307-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.004074078919523228;0;0.46287431552972136
+32734-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.0065793512177686996;0;0.4629384000928322
+33784-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.004597030787760034;0;0.46295978781021685
+12258-R.jpg;18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;0;0.0061012208822551;0;0.4629648471046132
+14433-R.jpg;14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;0;0.008067917006476855;0;0.46316879747762324
+18051-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.006821946456978894;0;0.46323253471868014
+32307-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.005682518418003258;0;0.46326229160852384
+33784-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.005834838101826279;0;0.4632696719493621
+33784-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.00445216103906115;0;0.463373066658173
+12258-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.00606187813521266;0;0.4633847241626734
+32396-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.006807711164149339;0;0.46341311020172954
+18519-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.005834360048349511;0;0.46349396226277106
+32396-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.0073742358241954235;0;0.4635352200892691
+32307-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.005068700960943746;0;0.4636530890975921
+12258-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.007274662691308995;0;0.46368763640530375
+18051-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.0030334163925381016;0;0.4637042867000421
+32307-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.0020675269437788577;0;0.46378559746621173
+14582-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.00799736138030831;0;0.4638504523717171
+14433-R.jpg;18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;0;0.005460750132554674;0;0.46385478925711887
+18519-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;0;0.0043266502757684944;0;0.46387998178747186
+32396-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.004964920591287103;0;0.463942606858393
+32396-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.0007241061258292422;0;0.46400012821641584
+18051-R.jpg;32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;0;0.002305263339780624;0;0.46435780555409323
+38191-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.007832583204319916;0;0.46437573957269446
+32734-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.007600653573698496;0;0.46439301418623974
+18519-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.005816500561324433;0;0.4644891191021858
+18051-R.jpg;18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;0;0.0066486837706654645;0;0.46451499407019586
+33784-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.005507398549215811;0;0.46468804837855393
+14433-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.005878399838917707;0;0.46491260827716857
+33066-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.005306483630719188;0;0.46494708135204166
+14582-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.0019388635182207286;0;0.465001497458586
+33784-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.0031854964519218622;0;0.46500680288097557
+40196-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.0059264355164390685;0;0.4650401940372215
+14582-R.jpg;18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;0;0.0034010290538275833;0;0.4650902413430752
+18051-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.001985130192361013;0;0.4653376541405052
+32307-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32307-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.001962579277306555;0;0.4653393061469873
+11799-R.jpg;36504-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\36504-R.jpg;0;0.006095217112708222;0;0.46537782446612186
+14582-R.jpg;33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;0;-0.002119600185681853;0;0.46556911020971803
+33066-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33066-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.0020797646965673325;0;0.46568926482731254
+11799-R.jpg;14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;0;0.005902008552136681;0;0.4657152482164981
+18051-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.004268864776479151;0;0.46602509855214985
+14582-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14582-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.002581341996612764;0;0.46608589058905825
+32734-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.003787566741902797;0;0.4661938900291841
+12258-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.005070938125419954;0;0.4662431402547172
+32396-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.004198726292373361;0;0.4663532394678412
+18051-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18051-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.0016547041037645635;0;0.4665966988613783
+32396-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.0017133355984856704;0;0.46662561022604215
+14433-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;0.0021678116088899866;0;0.46672520228271874
+12258-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.002760958032948956;0;0.46681365980522743
+14433-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.0023558644973274223;0;0.4671245219670371
+12258-R.jpg;40196-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\40196-R.jpg;0;0.0030268442408404035;0;0.4671817292998622
+32734-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.004320917801772207;0;0.467292782093509
+18519-R.jpg;39861-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\39861-R.jpg;0;-0.0020195576722415324;0;0.46737661384343276
+14433-R.jpg;32734-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32734-R.jpg;0;0.0031018134802716004;0;0.46739806518113897
+12258-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.0029935837102522444;0;0.46741457322771585
+38191-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.0013099294269980106;0;0.4674737509213749
+11799-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.0022623938864970924;0;0.46782919083862856
+14433-R.jpg;18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\14433-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;0;0.0005488728590486043;0;0.46790560902608314
+11799-R.jpg;38491-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38491-R.jpg;0;0.003637393533925002;0;0.4679375856496802
+32396-R.jpg;5713-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\5713-R.jpg;0;0.00184881098152695;0;0.4681075182242242
+11799-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;0;0.0027018617974197997;0;0.46825096079483874
+11799-R.jpg;38191-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\38191-R.jpg;0;0.00513263830117186;0;0.46845651197375676
+11799-R.jpg;32396-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\32396-R.jpg;0;0.0010894709160336428;0;0.4693206680394442
+11799-R.jpg;18519-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\11799-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\18519-R.jpg;0;7.540222477370083e-05;0;0.4704273770352348
+12258-R.jpg;33784-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\12258-R.jpg;D:\Khaoula\ihmaccadil\public\uploads\NomProjet\33784-R.jpg;8;0.0023797834612097925;"[[ 3.24212389e-01 -7.56216352e-01  3.35758474e+02]
+ [ 7.56216352e-01  3.24212389e-01 -6.50117968e+01]]";0.47084320928044143
