@@ -72,13 +72,13 @@ const SideBySide = ({ path1, path2 }) => {
   return (
     <div style={{ display: 'flex', justifyContent: 'center' }}>
       <div style={{ position: 'relative', marginRight: '10px' }}>
-        <img ref={image1Ref} src={path1} alt="Image 1" style={{ width: 'auto', height: 'auto' }} />
+        <img ref={image1Ref} src={path1} alt="Imge 1" style={{ width: 'auto', height: 'auto' }} />
         {isHovering && (
           <div ref={cursor1Ref} className="custom-cursor" />
         )}
       </div>
       <div style={{ position: 'relative' }}>
-        <img ref={image2Ref} src={path2} alt="Image 2" style={{ width: 'auto', height: 'auto' }} />
+        <img ref={image2Ref} src={path2} alt="Imge 2" style={{ width: 'auto', height: 'auto' }} />
         {isHovering && (
           <div ref={cursor2Ref} className="custom-cursor" />
         )}

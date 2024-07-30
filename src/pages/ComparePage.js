@@ -22,6 +22,46 @@ const ComparePage = () => {
     }, [location.state]);
 
     useEffect(() => {
+        const transformWithOpenCV = (imageSrc, matrix, callback) => {
+            const img = new Image();
+            img.crossOrigin = "Anonymous";
+            img.src = imageSrc;
+    
+            img.onload = () => {
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+                canvas.width = img.width;
+                canvas.height = img.height;
+                ctx.fillStyle = 'white';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+                const src = window.cv.imread(img); // Lire l'image avec OpenCV
+                const matrix3x3 = convert2x3To3x3(matrix); // Convertir la matrice 2x3 en 3x3
+    
+                // Appliquer la transformation warpPerspective
+                const dsize = new window.cv.Size(img.width, img.height);
+                const dst = new window.cv.Mat();
+                const M = window.cv.matFromArray(3, 3, window.cv.CV_64F, matrix3x3.flat());
+    
+                window.cv.warpPerspective(src, dst, M, dsize, window.cv.INTER_LINEAR, window.cv.BORDER_CONSTANT, new window.cv.Scalar(255, 255, 255, 255));
+    
+                // Convertir l'image OpenCV en base64 pour l'affichage
+                const resultCanvas = document.createElement('canvas');
+                window.cv.imshow(resultCanvas, dst);
+                const transformedSrc = resultCanvas.toDataURL();
+    
+                // Libérer la mémoire
+                src.delete();
+                dst.delete();
+                M.delete();
+    
+                callback(transformedSrc);
+            };
+    
+            img.onerror = (err) => {
+                console.error('Erreur lors du chargement de l\'image :', err);
+            };
+        };
         if (csvData.length > 0) {
             const currentData = csvData[currentIndex];
             const path1 = `${process.env.PUBLIC_URL}/uploads/DS08_R_1205/TEMP/CROP/${currentData.name1}`;
@@ -39,47 +79,6 @@ const ComparePage = () => {
 
     const handlePrevious = () => {
         setCurrentIndex((prevIndex) => (prevIndex - 1 + csvData.length) % csvData.length);
-    };
-
-    const transformWithOpenCV = (imageSrc, matrix, callback) => {
-        const img = new Image();
-        img.crossOrigin = "Anonymous";
-        img.src = imageSrc;
-
-        img.onload = () => {
-            const canvas = document.createElement('canvas');
-            const ctx = canvas.getContext('2d');
-            canvas.width = img.width;
-            canvas.height = img.height;
-            ctx.fillStyle = 'white';
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-            const src = window.cv.imread(img); // Lire l'image avec OpenCV
-            const matrix3x3 = convert2x3To3x3(matrix); // Convertir la matrice 2x3 en 3x3
-
-            // Appliquer la transformation warpPerspective
-            const dsize = new window.cv.Size(img.width, img.height);
-            const dst = new window.cv.Mat();
-            const M = window.cv.matFromArray(3, 3, window.cv.CV_64F, matrix3x3.flat());
-
-            window.cv.warpPerspective(src, dst, M, dsize, window.cv.INTER_LINEAR, window.cv.BORDER_CONSTANT, new window.cv.Scalar(255, 255, 255, 255));
-
-            // Convertir l'image OpenCV en base64 pour l'affichage
-            const resultCanvas = document.createElement('canvas');
-            window.cv.imshow(resultCanvas, dst);
-            const transformedSrc = resultCanvas.toDataURL();
-
-            // Libérer la mémoire
-            src.delete();
-            dst.delete();
-            M.delete();
-
-            callback(transformedSrc);
-        };
-
-        img.onerror = (err) => {
-            console.error('Erreur lors du chargement de l\'image :', err);
-        };
     };
 
     const convert2x3To3x3 = (matrix2x3) => {
