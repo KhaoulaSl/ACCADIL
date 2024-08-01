@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Superposition from '../components/Superposition';
 import SideBySide from '../components/SideBySide';
-import Tools from '../components/Tools';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../components/Tools.css';
 import { ArrowLeft, ArrowRight } from 'react-bootstrap-icons';
