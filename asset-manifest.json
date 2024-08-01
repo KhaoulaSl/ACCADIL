@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACCADIL/static/css/main.a4a298e2.css",
-    "main.js": "/ACCADIL/static/js/main.768d0074.js",
+    "main.css": "/ACCADIL/static/css/main.6c23d9bd.css",
+    "main.js": "/ACCADIL/static/js/main.dc3d0f64.js",
     "static/js/453.b6706a95.chunk.js": "/ACCADIL/static/js/453.b6706a95.chunk.js",
     "index.html": "/ACCADIL/index.html",
-    "main.a4a298e2.css.map": "/ACCADIL/static/css/main.a4a298e2.css.map",
-    "main.768d0074.js.map": "/ACCADIL/static/js/main.768d0074.js.map",
+    "main.6c23d9bd.css.map": "/ACCADIL/static/css/main.6c23d9bd.css.map",
+    "main.dc3d0f64.js.map": "/ACCADIL/static/js/main.dc3d0f64.js.map",
     "453.b6706a95.chunk.js.map": "/ACCADIL/static/js/453.b6706a95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a298e2.css",
-    "static/js/main.768d0074.js"
+    "static/css/main.6c23d9bd.css",
+    "static/js/main.dc3d0f64.js"
   ]
 }
