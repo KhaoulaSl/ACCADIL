@@ -98,7 +98,7 @@ const ComparePage = () => {
           console.error('Erreur lors du chargement de l\'image :', err);
         };
       };
-      
+
     if (csvData.length > 0) {
       const currentData = csvData[currentIndex];
       const path1 = `${process.env.PUBLIC_URL}/uploads/DS08_R_1205/TEMP/CROP/${currentData.name1}`;
@@ -136,6 +136,7 @@ const ComparePage = () => {
     <div className={`container container-fluid p-5 text-center ${view}`}>
       <h1>Comparer les monnaies</h1>
       <h6>{csvData[currentIndex].name1} {name2}</h6>
+      <h6>{currentIndex+1}</h6>
 
       <div className="container-fluid p-3 d-flex justify-content-center align-items-center image-container">
         <button className="container-fluid p-2 btn btn-secondary col-2" onClick={handlePrevious} disabled={currentIndex === 0}><ArrowLeft /></button>
