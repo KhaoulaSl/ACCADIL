@@ -13,8 +13,9 @@ function Home() {
     <div className="home-container">
       <h1 className="home-title">Bienvenue sur l'évaluation d'interactions</h1>
       <p className="home-description">
-        Utilisez cette application pour comparer des images en utilisant des matrices de transformation. 
-        Cliquez sur le bouton ci-dessous pour accéder à la page de comparaison.
+        Cette application permet uniquement d'évaluer les différentes interactions et s'assurer
+        qu'elles facilitent l'exercice de liaison des coins. 
+        Elle ne représente pas l'application finale en terme de dispositions et de couleurs.
       </p>
       <button className="home-button" onClick={handleButtonClick}>
         Aller à la page de comparaison

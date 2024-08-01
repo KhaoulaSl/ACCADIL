@@ -162,7 +162,6 @@ const ComparePage = () => {
           Côte à Côte
         </button>
       </div>
-      <Tools />
     </div>
   );
 };
